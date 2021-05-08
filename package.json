@@ -1,0 +1,19 @@
+{
+  "name": "beta",
+  "version": "1.0.0",
+  "description": "A bot that I am going to work hard on making useful",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D4rk ᓚᘏᗢ",
+  "license": "ISC"
+}
